@@ -13,7 +13,7 @@
 })();
 
 function openPdf(){
-    var pdfPath = './img/ZAlruwaishedCV.pdf'; 
+    var pdfPath = './img/ZiAlruwaishedCV.pdf'; 
 
     // Open the PDF file in a new tab
     window.open(pdfPath, '_blank');
