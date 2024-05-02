@@ -13,7 +13,7 @@
 })();
 
 function openPdf(){
-    var pdfPath = './img/ZeadAlrouasheedResume.pdf'; 
+    var pdfPath = './img/Alruwaished-updatedCV.pdf'; 
 
     // Open the PDF file in a new tab
     window.open(pdfPath, '_blank');
