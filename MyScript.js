@@ -13,7 +13,7 @@
 })();
 
 function openPdf(){
-    var pdfPath = './ZeadAlrouasheedResume.pdf'; 
+    var pdfPath = './img/Ziyad-Alruwaished-Resume.pdf'; 
 
     // Open the PDF file in a new tab
     window.open(pdfPath, '_blank');
