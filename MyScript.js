@@ -13,16 +13,8 @@
 })();
 
 function openPdf(){
-<<<<<<< HEAD
     var pdfPath = './img/Ziyad-Alruwaished-Resume.pdf'; 
 
     // Open the PDF file in a new tab
     window.open(pdfPath, '_blank');
 }
-=======
-    var pdfPath = './img/ZidAlruwaishedCV.pdf'; 
-
-    // Open the PDF file in a new tab
-    window.open(pdfPath, '_blank');
-}
->>>>>>> c8cbde7f14e95a3797638700399c3cb4cec5509d
