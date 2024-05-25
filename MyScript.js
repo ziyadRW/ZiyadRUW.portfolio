@@ -11,3 +11,10 @@
         document.body.classList.toggle("light-mode");
     })
 })();
+
+function openPdf(){
+    var pdfPath = './ZeadAlrouasheedResume.pdf'; 
+
+    // Open the PDF file in a new tab
+    window.open(pdfPath, '_blank');
+}
